@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Queen Johnson 👋
 
-<!--
-**helloqueenjohnson-png/helloqueenjohnson-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Specialist
 
-Here are some ideas to get you started:
+I design and build AI-powered workflow automation solutions that help businesses eliminate repetitive tasks, improve operational efficiency, and automate business processes using AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+
+- AI Workflow Automation
+- AI Agents
+- Workflow Design
+- Business Process Automation
+- API Integrations
+
+## ⚙️ Tech Stack
+
+- n8n
+- Zapier
+- Make.com
+- OpenAI
+- Relevance AI
+- REST APIs
+- Webhooks
+- JavaScript
+
+## 🚀 Featured Projects
+
+- AI Customer Support & Ticket Routing System
+- AI Lead Qualification System
+- AI Job Application Tracking System
+- Automated Weather Notification System
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/queen-johnson/
+- Email: helloqueenjohnson@gmail.com
+
+Portfolio Website *(Coming Soon)*
